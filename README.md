@@ -8,7 +8,7 @@
 > - Tambem fica atualizado de todo o conteúdo que sera lançado para a plataforma.
 > - ## **Link do addon**
 > - [ **Click na foto** ]
->[![Pikachu](https://i.imgur.com/lOnHDqG.jpg)](https://github.com/cuspida/cuspida/blob/main/plugin.video.pikachu.zip?raw=true)
+> -  [![Pikachu](https://i.imgur.com/lOnHDqG.jpg)](https://github.com/cuspida/cuspida/blob/main/plugin.video.pikachu.zip?raw=true)
 > - ## **Link do canal** 
 > - [ **Click na foto** ]
 >[![Youtube](https://www.themoviedb.org/t/p/original/gpWAdT0RiWfFc7g739BOv7AxcGK.jpg)](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ)
