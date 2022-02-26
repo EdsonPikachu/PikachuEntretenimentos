@@ -16,5 +16,6 @@
 ### Exemplos De Sintase
 > - Este **Site**. Foi desenvolvido no intuito de trazer a melhor leveza possível.
 > - Sabemos que nem todos os usuários Possuem máquinas super potentes, **PC ou box**.
-> - Então é com imenso prazer que o **Pikachu Entretenimentos**. Desenvolveu este projeto simple mais porem bastante funcional para você.
+> - Então é com imenso prazer que o **Pikachu Entretenimentos**.
+> - Desenvolveu este projeto simple mais porem bastante funcional para você.
 > - Tenha a melhor diversão em seu **kodi**  <**https://bit.ly/pikachuwebsite**> um site totalmente desenvolvido pensando em você.
