@@ -11,7 +11,7 @@
 > -  [![Pikachu](https://i.imgur.com/lOnHDqG.jpg)](https://github.com/cuspida/cuspida/blob/main/plugin.video.pikachu.zip?raw=true)
 >> - ## **Link do canal** 
 >>> 4. [ **Click na foto** ]
->   [![Youtube](https://www.themoviedb.org/t/p/original/gpWAdT0RiWfFc7g739BOv7AxcGK.jpg)](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ)
+> -  [![Youtube](https://www.themoviedb.org/t/p/original/gpWAdT0RiWfFc7g739BOv7AxcGK.jpg)](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ)
 ### Exemplos De Sintase
 > - Este é um *blockquote*. O sinal usado abre e fecha este código no HTML. 
 > - Para adicionar mais uma linha à citação, basta teclar Enter para um novo
