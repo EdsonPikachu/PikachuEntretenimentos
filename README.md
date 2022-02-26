@@ -1,5 +1,5 @@
 # **Pikachu Entretenimentos Web Site**
->>> 1. [ **Pikachu** ]
+>> - ## **Pikachu**
 >[![Pikachu](https://i.imgur.com/WQNErVg.jpg)](https://cuspida.github.io/PikachuEntretenimentos/)
 > - Aqui Você Encontra o que à de melhor para seu [ **kodi** ].
 > - Tambem fica atualizado de todo o conteúdo que sera lançado para a plataforma.
