@@ -13,9 +13,11 @@
 >> - ## **Link do canal**.
 >>> 4. [ **Click na foto** ].
 > - [![Youtube](https://www.themoviedb.org/t/p/original/gpWAdT0RiWfFc7g739BOv7AxcGK.jpg)](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ)
-### Exemplos De Sintase
+>> - ## **Considerações**.
 > - Este **Site**. Foi desenvolvido no intuito de trazer a melhor leveza possível.
 > - Sabemos que nem todos os usuários Possuem máquinas super potentes, **PC ou box**.
 > - Então é com imenso prazer que o **Pikachu Entretenimentos**.
-> - Desenvolveu este projeto simple mais porem bastante funcional.
-> - Tenha a melhor diversão em seu **kodi**  **<https://bit.ly/pikachuwebsite>** um site totalmente desenvolvido pensando em você.
+> - Desenvolveu este projeto simple, mais porem bastante funcional.
+> - Tenha a melhor diversão em seu **kodi**.  **<https://bit.ly/pikachuwebsite>** 
+> - Um site totalmente desenvolvido pensando em você.
+>> - ## **Pikachu Entretenimentos** Uma Nova Era [**Kodi**].
