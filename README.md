@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# **Pikachu Entretenimentos Web Site**
+>[![Pikachu](https://i.imgur.com/WQNErVg.jpg)](https://cuspida.github.io/PikachuEntretenimentos/)
+> - Aqui Você Encontra o que à de melhor para seu [ **kodi** ]. 
+> - Tambem fica atualizado de todo o conteúdo que sera lançado para a plataforma.
+> - ## **Link do addon**
+> 1. [ **Click na foto** ]
+>[![Pikachu](https://i.imgur.com/lOnHDqG.jpg)](https://github.com/cuspida/cuspida/blob/main/plugin.video.pikachu.zip?raw=true)  |  
+> - ## **Link do canal** 
+> 2. [ **Click na foto** ]
+>[![Youtube](https://www.themoviedb.org/t/p/original/gpWAdT0RiWfFc7g739BOv7AxcGK.jpg)](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ)
+### Exemplos De Sintase
+> - Este é um *blockquote*. O sinal usado abre e fecha este código no HTML. 
+> - Para adicionar mais uma linha à citação, basta teclar Enter para um novo
+> - código sinal. Isso gerará um novo parágrafo dentro do *blockquote*.
+> - Códigos de **negrito**, _itálico_ e <https://links.com> funcionam aqui.
 
-You can use the [editor on GitHub](https://github.com/cuspida/PikachuEntretenimentos/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Esta é uma linha que contém um ˋcódigoˋ.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ˋˋˋ
+Esta é uma linha de código
+ ˋˋˋ
+ 
+ ~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
 
-### Markdown
+~~~php
+Esta é uma linha de código em PHP.
+~~~
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+~~~html
+Esta é uma linha de código em HTML.
+~~~
 
-```markdown
-Syntax highlighted code block
+* Item 1
+* Item 2
+* Item 3
 
-# Header 1
-## Header 2
-### Header 3
+1. Item 1
+2. Item 2
+3. Item 3
 
-- Bulleted
-- List
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
 
-1. Numbered
-2. List
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cuspida/PikachuEntretenimentos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Para saber mais você pode consultar esse artigo do Markdown: [Wikipedia](https://en.wikipedia.org/wiki/Markdown "Markdown - Wikipedia"). Ou a documentação da linguagem: [John Gruber](https://daringfireball.net/projects/markdown/ "Documentação Original do Markdown.").
