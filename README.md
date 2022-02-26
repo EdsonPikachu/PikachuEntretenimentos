@@ -14,7 +14,7 @@
 >>> 4. [ **Click na foto** ].
 > - [![Youtube](https://www.themoviedb.org/t/p/original/gpWAdT0RiWfFc7g739BOv7AxcGK.jpg)](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ)
 ### Exemplos De Sintase
-> - Este é um *blockquote*. O sinal usado abre e fecha este código no HTML. 
-> - Para adicionar mais uma linha à citação, basta teclar Enter para um novo
-> - código sinal. Isso gerará um novo parágrafo dentro do *blockquote*.
-> - Códigos de **negrito**, _itálico_ e <https://links.com> funcionam aqui.
+> - Este *Site*. Foi desenvolvido no intuito de trazer a melhor leveza possível.
+> - Sabemos que nem todos os usuários Possuem máquinas super potentes, *PC ou box*.
+> - Então é com imenso prazer que o *Pikachu Entretenimentos*  desenvolveu este projeto.
+> - Tenha aa melhor diversão em seu *kodi*  <https://bit.ly/pikachuwebsit> um site totalmente desenvolvido pensando em você.
