@@ -17,4 +17,4 @@
 > - Este *Site*. Foi desenvolvido no intuito de trazer a melhor leveza possível.
 > - Sabemos que nem todos os usuários Possuem máquinas super potentes, *PC ou box*.
 > - Então é com imenso prazer que o *Pikachu Entretenimentos*  desenvolveu este projeto.
-> - Tenha aa melhor diversão em seu *kodi*  <https://bit.ly/pikachuwebsit> um site totalmente desenvolvido pensando em você.
+> - Tenha a melhor diversão em seu *kodi*  <https://bit.ly/pikachuwebsite> um site totalmente desenvolvido pensando em você.
