@@ -7,7 +7,7 @@
 > - Tambem fica atualizado de todo o conteúdo que sera lançado para a plataforma.
 >> - ## **Link do kodi**.
 >>> 2. [ **Click na foto** ].
-> - [![Kodi](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/KodiPikachu.png)](https://kodi.tv/)
+> - [![Kodi](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/KodiPikachu.png#gh-dark-mode-only)](https://kodi.tv/)
 >> - ## **Link do addon**.
 >>> 3. [ **Click na foto** ].
 > - [![Pikachu](https://i.imgur.com/lOnHDqG.jpg)](https://github.com/cuspida/cuspida/blob/main/plugin.video.pikachu.zip?raw=true)
