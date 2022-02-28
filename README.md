@@ -21,5 +21,4 @@
 > - Desenvolveu este projeto simples, mais porem bastante funcional.
 > - Tenha a melhor diversão em seu **kodi**.  **<https://bit.ly/pikachuwebsite>** 
 > - Um site totalmente desenvolvido pensando em você.
->> - ## **Pikachu Entretenimentos** Uma Nova Era [**Kodi**].
-@octocat :+1: Este PR parece ótimo - está pronto para o merge! :shipit:
+>> - ## :+1:**Pikachu Entretenimentos** Uma Nova Era [**Kodi**]:shipit:.
