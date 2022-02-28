@@ -1,4 +1,4 @@
->  # **Pikachu Entretenimentos Web Site**.
+# **Pikachu Entretenimentos Web Site**.
 >
 >>>   ## **Edson Gadelha**
 >    [ **sábado, 26 fevereiro 2022** ].
