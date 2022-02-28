@@ -4,7 +4,7 @@
 >    [ **sábado, 26 fevereiro 2022** ].
 >
 >> - **Pikachu agradece a visita** [ **Divirta-se** ].
->>  [![Pikachu](https://i.imgur.com/WQNErVg.jpg)](https://edsongadelha.github.io/PikachuEntretenimentos/)
+>>  [![Pikachu](https://i.imgur.com/WQNErVg.jpg)](https://edsonpikachu.github.io/PikachuEntretenimentos/)
 >> - Aqui Você Encontra o que à de melhor para seu [ **kodi** ].
 >> - Tambem fica atualizado de todo o conteúdo que sera lançado para a plataforma.
 >
