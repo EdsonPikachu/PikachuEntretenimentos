@@ -19,6 +19,6 @@
 > - Sabemos que nem todos os usuários Possuem máquinas potentes, **PC\box**.
 > - Então é com imenso prazer que o **Pikachu Entretenimentos**.
 > - Desenvolveu este projeto simples, mais porem bastante funcional.
-> - Tenha a melhor diversão em seu **kodi**.  **<https://bit.ly/pikachuwebsite>** 
+> - Tenha a melhor diversão em seu **kodi**.  **[![Pikachu Entretenimentos]**(https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ).
 > - Um site totalmente desenvolvido pensando em você.
 >> - ## **Pikachu Entretenimentos** Uma Nova Era [**Kodi**].
