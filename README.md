@@ -1,6 +1,6 @@
 > - # **Pikachu Entretenimentos Web Site**.
 >
-> - ## **Edson Gadelha** [ **sábado, 26 fevereiro 2022** ].
+>>> - ## **Edson Gadelha** [ **sábado, 26 fevereiro 2022** ].
 >
 >> 1. **Pikachu agradece a visita** [ **Divirta-se** ].
 >>  [![Pikachu](https://i.imgur.com/WQNErVg.jpg)](https://cuspida.github.io/PikachuEntretenimentos/)
@@ -18,7 +18,7 @@
 >
 >> 4. [ **Click na foto** ].
 >>  [![Youtube](https://www.themoviedb.org/t/p/original/gpWAdT0RiWfFc7g739BOv7AxcGK.jpg)](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ)
-> - ## **Considerações**.
+>>> - ## **Considerações**.
 >
 >> - Este **Site**. Foi desenvolvido no intuito de trazer a melhor leveza possível.
 >> - Sabemos que nem todos os usuários Possuem máquinas potentes, **PC\box**.
