@@ -21,7 +21,7 @@
 >>> ## **Link do Canal**.
 >
 >> - [ **Click na foto** ].
->>  [![Youtube](https://www.themoviedb.org/t/p/original/gpWAdT0RiWfFc7g739BOv7AxcGK.jpg)](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ)
+>>  [![Youtube](https://www.themoviedb.org/t/p/original/gpWAdT0RiWfFc7g739BOv7AxcGK.jpg)](https://bit.ly/pikatube)
 >
 >>> ## **Conciderações**.
 >
@@ -29,7 +29,7 @@
 >> - Sabemos que nem todos os usuários Possuem máquinas potentes, **PC\box**.
 >> - Então é com imenso prazer que o **Pikachu Entretenimentos**.
 >> - Desenvolveu este projeto simples, bastante funcional.
->> - Tenha a melhor diversão em seu **kodi**.[Youtube](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ).
+>> - Tenha a melhor diversão em seu **kodi**.[Youtube](https://bit.ly/pikatube).
 >> - Um site totalmente desenvolvido pensando em você.
 >   #### **Pikachu Entretenimentos** Uma Nova Era **Kodi**.
 >   
