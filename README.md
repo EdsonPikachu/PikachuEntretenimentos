@@ -19,7 +19,7 @@
 >
 >> 4. [ **Click na foto** ].
 >>  [![Youtube](https://www.themoviedb.org/t/p/original/gpWAdT0RiWfFc7g739BOv7AxcGK.jpg)](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ)
->   ## **Considerações**.
+>>>   ## **Conciderações**.
 >
 >> - Este **Site**. Foi desenvolvido no intuito de trazer a melhor leveza possível.
 >> - Sabemos que nem todos os usuários Possuem máquinas potentes, **PC\box**.
