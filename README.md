@@ -31,5 +31,5 @@
 >> - Desenvolveu este projeto simples, bastante funcional.
 >> - Tenha a melhor diversão em seu **kodi**.[Youtube](https://m.youtube.com/channel/UCeVrB6BlEGnGNU6R2vMg_IQ).
 >> - Um site totalmente desenvolvido pensando em você.
->   #### **Pikachu Entretenimentos** Uma Nova Era [**Kodi**].
+>   #### **Pikachu Entretenimentos** Uma Nova Era **Kodi**.
 >   
