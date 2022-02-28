@@ -11,7 +11,7 @@
 >
 >> 2. [ **Click na foto** ].
 >>  [![Kodi](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/KodiPikachu.png)](https://kodi.tv/)
->>> - ## **Link do addon**.
+>>>   ## **Link do addon**.
 >
 >> 3. [ **Click na foto** ].
 >>  [![Pikachu](https://i.imgur.com/lOnHDqG.jpg)](https://github.com/cuspida/cuspida/blob/main/plugin.video.pikachu.zip?raw=true)
