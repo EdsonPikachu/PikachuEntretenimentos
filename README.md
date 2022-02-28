@@ -4,19 +4,19 @@
 >    [ **sábado, 26 fevereiro 2022** ].
 >
 >> - **Pikachu agradece a visita** [ **Divirta-se** ].
->>  [![Pikachu](https://i.imgur.com/WQNErVg.jpg)](https://cuspida.github.io/PikachuEntretenimentos/)
+>>  [![Pikachu](https://i.imgur.com/WQNErVg.jpg)](https://edsongadelha.github.io/PikachuEntretenimentos/)
 >> - Aqui Você Encontra o que à de melhor para seu [ **kodi** ].
 >> - Tambem fica atualizado de todo o conteúdo que sera lançado para a plataforma.
 >
 >>> ## **Link do kodi**.
 >
 >> - [ **Click na foto** ].
->>  [![Kodi](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/kodi01.png)](https://kodi.tv/)
+>>  [![Kodi](https://bit.ly/imagemkodi)](https://kodi.tv/)
 >
 >>> ## **Link do Addon**.
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/addon.png)](https://github.com/cuspida/cuspida/blob/main/plugin.video.pikachu.zip?raw=true)
+>>  [![Pikachu](https://bit.ly/pikachumatrix)
 >
 >>> ## **Link do Canal**.
 >
