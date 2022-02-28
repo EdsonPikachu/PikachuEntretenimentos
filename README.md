@@ -2,12 +2,12 @@
 >> - ## **Edson Gadelha** 
 > - [ **sábado, 26 fevereiro 2022** ].
 >>> 1. **Pikachu agradece a visita** [ **Divirta-se** ].
-> - [![Pikachu](https://i.imgur.com/WQNErVg.jpg#gh-dark-mode-only)](https://cuspida.github.io/PikachuEntretenimentos/)
+> - [![Pikachu](https://i.imgur.com/WQNErVg.jpg)](https://cuspida.github.io/PikachuEntretenimentos/)
 > - Aqui Você Encontra o que à de melhor para seu [ **kodi** ].
 > - Tambem fica atualizado de todo o conteúdo que sera lançado para a plataforma.
 >> - ## **Link do kodi**.
 >>> 2. [ **Click na foto** ].
-> - [![Kodi](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/KodiPikachu.png#gh-dark-mode-only)](https://kodi.tv/)
+> - [![Kodi](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/KodiPikachu.png)](https://kodi.tv/)
 >> - ## **Link do addon**.
 >>> 3. [ **Click na foto** ].
 > - [![Pikachu](https://i.imgur.com/lOnHDqG.jpg)](https://github.com/cuspida/cuspida/blob/main/plugin.video.pikachu.zip?raw=true)
@@ -22,3 +22,4 @@
 > - Tenha a melhor diversão em seu **kodi**.  **<https://bit.ly/pikachuwebsite>** 
 > - Um site totalmente desenvolvido pensando em você.
 >> - ## **Pikachu Entretenimentos** Uma Nova Era [**Kodi**].
+@octocat :+1: Este PR parece ótimo - está pronto para o merge! :shipit:
