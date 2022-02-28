@@ -11,7 +11,7 @@
 >>> ## **Link do kodi**.
 >
 >> - [ **Click na foto** ].
->>  [![Kodi](https://bit.ly/imagemkodi)](https://kodi.tv/)
+>>  [![Kodi](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/kodi01.png)](https://kodi.tv/)
 >
 >>> ## **Link do Addon**.
 >
