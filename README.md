@@ -1,5 +1,5 @@
 # **Pikachu Entretenimentos Web Site**.
->> - ## **:shipit:Edson Gadelha** 
+>> - ## **Edson Gadelha** 
 > - [ **sábado, 26 fevereiro 2022** ].
 >>> 1. **Pikachu agradece a visita** [ **Divirta-se** ].
 > - [![Pikachu](https://i.imgur.com/WQNErVg.jpg)](https://cuspida.github.io/PikachuEntretenimentos/)
@@ -21,4 +21,4 @@
 > - Desenvolveu este projeto simples, mais porem bastante funcional.
 > - Tenha a melhor diversão em seu **kodi**.  **<https://bit.ly/pikachuwebsite>** 
 > - Um site totalmente desenvolvido pensando em você.
->> - ## :+1:**Pikachu Entretenimentos** Uma Nova Era [**Kodi**]:shipit:.
+>> - ## **Pikachu Entretenimentos** Uma Nova Era [**Kodi**.
