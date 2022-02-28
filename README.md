@@ -1,13 +1,13 @@
->   # **Pikachu Entretenimentos Web Site**.
+>  # **Pikachu Entretenimentos Web Site**.
 >
->   ## **Edson Gadelha**
+>>>   ## **Edson Gadelha**
 >    [ **sábado, 26 fevereiro 2022** ].
 >
 >> 1. **Pikachu agradece a visita** [ **Divirta-se** ].
 >>  [![Pikachu](https://i.imgur.com/WQNErVg.jpg)](https://cuspida.github.io/PikachuEntretenimentos/)
 >> - Aqui Você Encontra o que à de melhor para seu [ **kodi** ].
 >> - Tambem fica atualizado de todo o conteúdo que sera lançado para a plataforma.
->   ## **Link do kodi**.
+>>>   ## **Link do kodi**.
 >
 >> 2. [ **Click na foto** ].
 >>  [![Kodi](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/KodiPikachu.png)](https://kodi.tv/)
