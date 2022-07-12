@@ -13,10 +13,15 @@
 >> - [ **Click na foto** ].
 >>  [![Kodi](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/kodi01.png)](https://kodi.tv/)
 >
->>> ## **Link do Addon**.
+>>> ## **Link do Addon Kodi 19 Matrix**.
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/addon.png)](https://bit.ly/pikachumatrix)
+>>  [![Pikachu](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/addon.png)](https://bit.ly/pikachu19)
+>
+>>> ## **Link do Addon Kodi 18 Leia**.
+>
+>> - [ **Click na foto** ].
+>>  [![Pikachu](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/addon.png)](https://bit.ly/pikachu18)
 >
 >>> ## **Link do Canal**.
 >
