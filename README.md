@@ -1,31 +1,4 @@
 <html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Pikachu Entretenimentos Web Site.</h1>
-      <h2 class="project-tagline">Pikachu Entretenimentos Web Site</h2>
-      
-        <a href="https://github.com/EdsonPikachu/PikachuEntretenimentos" class="btn">View on GitHub</a>
-      
-      
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      <h1 id="pikachu-entretenimentos-web-site"><strong>Pikachu Entretenimentos Web Site</strong>.</h1>
-<blockquote>
-
-  <blockquote>
-    <blockquote>
-      <h2 id="edson-gadelha"><strong>Edson Gadelha</strong></h2>
-      <p>[ <strong>sábado, 26 fevereiro 2022</strong> ].</p>
-    </blockquote>
-  </blockquote>
-
   <blockquote>
     <ul>
       <li><strong>Pikachu agradece a visita</strong> [ <strong>Divirta-se</strong> ].
